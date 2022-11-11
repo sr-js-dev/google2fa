@@ -1,5 +1,5 @@
 {
-    "name": "google2fa/inspire",
+    "name": "google2fa/inspire-google",
     "autoload": {
         "psr-4": {
             "Google2fa\\Inspire\\": "src/"
