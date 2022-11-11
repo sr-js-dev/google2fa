@@ -1,0 +1,17 @@
+{
+    "name": "google2fa/inspire",
+    "autoload": {
+        "psr-4": {
+            "Google2fa\\Inspire\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Farhan Hasin Chowdhury",
+            "email": "shovik.is.here@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0.1"
+    }
+}
